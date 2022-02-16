@@ -1,18 +1,19 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<p align="center"> <img src="https://raw.githubusercontent.com/Mo7amedSMahdi/Mo7amedSMahdi/main/assets/logo.png" width="50" height="120" alt="Mo7amedSmahdi" /></p>
+ ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <a href="https://www.instagram.com/mohamed.s.mahdi/">
-  <img align="left" alt="Mohammed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Mohammed's Instagram" width="22px" src="https://raw.githubusercontent.com/Mo7amedSMahdi/Mo7amedSMahdi/main/assets/instagram.png" />
 </a>
 <a href="https://discord.gg/mo7ammed.salah#9572">
-  <img align="left" alt="Mohammed's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Mohammed's Discord" width="22px" src="https://raw.githubusercontent.com/Mo7amedSMahdi/Mo7amedSMahdi/99a4c9b460e931c487f57ff92be6b86130f9d49a/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/devMo7amed">
-  <img align="left" alt="Mohammed Salah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Mohammed Salah | Twitter" width="22px" src="https://raw.githubusercontent.com/Mo7amedSMahdi/Mo7amedSMahdi/99a4c9b460e931c487f57ff92be6b86130f9d49a/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mohammed-mahdi-b20340162/">
-  <img align="left" alt="Mohammeds's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mohammeds's LinkedIN" width="22px" src="https://raw.githubusercontent.com/Mo7amedSMahdi/Mo7amedSMahdi/fb2ef083e2c16e5e7c59a205beb990f535ce1544/assets/linkedin.svg" />
 </a>
-<a href="">
-  <img align="left" alt="Mohammeds's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.facebook.com/Mo7ammed.salah1/">
+  <img align="left" alt="Mohammeds's Facebook" width="22px" src="https://raw.githubusercontent.com/Mo7amedSMahdi/Mo7amedSMahdi/99a4c9b460e931c487f57ff92be6b86130f9d49a/assets/facebook.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Mo7amedSmahdi.Mo7amedSMahdi)
@@ -23,7 +24,7 @@ Hi, I'm Mohammed Salah, A passionate self-taught full-stack web developer and a 
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Mo7amedSMahdi/Mo7amedSMahdi/main/assets/code.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:mo7ammed.salah@outlook.com) :)
 - 💬 ask me about anything, I am happy to help;
