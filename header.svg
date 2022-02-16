@@ -50,7 +50,8 @@ justify-content: space-between;
 align-items: center;
 }
 }
-<section class="intro__container">
+            
+<div class="intro__container">
     <h1>I'm Mohammed <br /> Glad to see <br />you!</h1>
     <p>I’m a software developer! I can help you build a product , feature or website Look through some of my
         work and
@@ -64,7 +65,7 @@ align-items: center;
         <li><a href="githubusercontent.com/"><img src="./images/github.svg" alt="GitHub logo" /></a></li>
         <li><a href="angellist.com/"><img src="./images/angellist.svg" alt="angellist logo" /></a></li>
     </ul>
-</section>
+</div>
           
         </div>
     </foreignObject>
