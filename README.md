@@ -71,8 +71,9 @@ Java         7 mins          ░░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mo7amedsmahdi&show_icons=true&theme=gotham" alt="Mo7amedSmahdi" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=mo7amedsmahdi&show_icons=true&theme=gotham" alt="Mo7amedSmahdi" />
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7amedSMahdi&" alt="imjmakki" /></p>
 
 
 
