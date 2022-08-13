@@ -55,20 +55,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-Total: 20 hrs 44 mins
-
-HTML         9 hrs 23 mins   ███████████▒░░░░░░░░░░░░░   45.32 % 
-CSS          9 hrs 11 mins   ███████████░░░░░░░░░░░░░░   44.34 % 
-JavaScript   1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Java         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-```
-<!--END_SECTION:waka-->
-
-
 📈 my github stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=mo7amedsmahdi&show_icons=true&theme=gotham" alt="Mo7amedSmahdi" />
