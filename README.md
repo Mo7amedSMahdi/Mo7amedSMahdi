@@ -55,8 +55,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4"></code>
 
-📈 my github stats
-
 <p> <img src="https://github-readme-stats.vercel.app/api?username=mo7amedsmahdi&show_icons=true&theme=gotham" alt="Mo7amedSmahdi" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7amedSMahdi&" alt="imjmakki" /></p>
